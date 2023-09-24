@@ -4,7 +4,6 @@
 Company challenge.
 
 ## :wrench: Technologies used
-* CSS
 * HTML
 
 ## :rocket: Running the project
