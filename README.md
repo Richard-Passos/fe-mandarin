@@ -1,13 +1,21 @@
 <h1 align="center">:file_cabinet: Mandarin</h1>
 
+<br>
+
 ## :memo: Description
-Company challenge.
+Company challenge, they asked me to do the HTML for a website.
+
+<br>
 
 ## :wrench: Technologies used
 * HTML
 
-## :rocket: Running the project
+<br>
+
+## :rocket: Run project
 To run the repository, it is recommended to clone it
+
+<br>
 
 ## :handshake: Team
 <table>
@@ -23,5 +31,7 @@ To run the repository, it is recommended to clone it
   </tr>
 </table>
 
-## :dart: Project status
+<br>
+
+## :dart: Status
 Finished
