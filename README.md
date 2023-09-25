@@ -13,7 +13,9 @@ Company challenge, they asked me to do the HTML for a website.
 <br>
 
 ## :rocket: Run project
-To run the repository, it is recommended to clone it
+```
+https://richard-passos.github.io/fe-mandarin/
+```
 
 <br>
 
